@@ -1,1 +1,1 @@
-# Collection of all Learning Projects
+# First repository made using Git
