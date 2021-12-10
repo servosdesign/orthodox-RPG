@@ -1,1 +1,1 @@
-# learning-git
+# Collection of all Learning Projects
